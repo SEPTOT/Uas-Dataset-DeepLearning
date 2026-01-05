@@ -10,6 +10,7 @@
 Program Studi : Teknik Informatika  
 Mata Kuliah    : Deep Learning  
 Semester       : 7 A 
+
 Dosen Pengampu : Asriyanik, M.T.
 ---
 

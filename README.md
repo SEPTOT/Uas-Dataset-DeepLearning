@@ -7,11 +7,10 @@
 - Nama Anggota 4 : ..................................
 - Nama Anggota 5 : ..................................
 
-Program Studi : Teknik Informatika  
-Mata Kuliah    : Deep Learning  
-Semester       : 7 A 
-
-Dosen Pengampu : Asriyanik, M.T.
+- Program Studi : Teknik Informatika  
+- Mata Kuliah    : Deep Learning  
+- Semester       : 7 A 
+- Dosen Pengampu : Asriyanik, M.T.
 ---
 
 ## Latar Belakang dan Tujuan

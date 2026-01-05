@@ -4,8 +4,6 @@
 - Nama Anggota 1 : Nathanael Lesmana
 - Nama Anggota 2 : Fahmi Imam Taufik
 - Nama Anggota 3 : Ariya Maulana Arifin
-- Nama Anggota 4 : ..................................
-- Nama Anggota 5 : ..................................
 
 - Program Studi : Teknik Informatika  
 - Mata Kuliah    : Deep Learning  

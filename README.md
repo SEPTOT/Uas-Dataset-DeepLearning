@@ -90,6 +90,9 @@ Evaluasi model dilakukan menggunakan data testing dengan metrik:
 Hasil evaluasi menunjukkan bahwa model mampu mencapai akurasi yang baik
 dalam memprediksi penyakit jantung, dengan perbedaan loss training dan validation
 yang relatif kecil.
+<img width="1085" height="256" alt="image" src="https://github.com/user-attachments/assets/8485ecf6-9983-4406-9e27-0c9f5ca78ee7" />
+<img width="527" height="749" alt="image" src="https://github.com/user-attachments/assets/0c46afb7-323f-4a5a-b2da-741ada3b2df5" />
+
 
 ---
 
